@@ -7,7 +7,7 @@ public class PrimeiroPrograma {
 	public static void main(String[] args) {
 		
 		hiena hiena = new hiena();
-		Livros livros = new Livros();
+		Livros Livros = new Livros();
 		
 		System.out.println(hiena);
 		
