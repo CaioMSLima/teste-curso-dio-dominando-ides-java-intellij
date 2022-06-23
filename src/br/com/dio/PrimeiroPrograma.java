@@ -8,11 +8,13 @@ public class PrimeiroPrograma {
 
         System.out.println(hiena);
 
-        Livros Livros = new Livros( nome: "o problema dos 3 corpos", numPagina: 300);
+        String nome = "O problema dos 3 corpos";
+        Livros livros = new Livros(nome, 300);
+        System.out.println(livros);
 
-        int a = 5;
+        /*int a = 5;
         int b = 3;
-        System.out.println("Hello word! " + (a+b) );
+        System.out.println("Hello word! " + (a+b) );*/
     }
 }
 
